@@ -1,1 +1,1 @@
-Clone and then install. Requires python 3.
+Clone and then run. Requires python 3.
